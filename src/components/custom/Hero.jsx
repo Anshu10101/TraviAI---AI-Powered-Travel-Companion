@@ -110,7 +110,6 @@ function Hero({ heroRef }) {
             rel="noopener noreferrer"
             to=""
           >
-            <Button variant="secondary">Buy Me a Coffee</Button>
           </Link>
         </div>
         <div className="marquee relative flex w-[75vw] flex-col items-center justify-center overflow-hidden rounded-lg bg-background">
