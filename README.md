@@ -312,39 +312,3 @@ If you have an idea or feature that would make this project even better, please 
 4. **Open a Pull Request**  
    Go to the original repo and click "New Pull Request". Select your branch and provide a description of what your changes do. Once you're ready, submit the pull request!
   
-
-## Report Issues and Suggestions
-If you encounter a bug or have a suggestion to improve the project, please open an [issue](https://github.com/satendra03/trip-planner-by-satendra/issues) on the Issues page. If it's a new feature or improvement, tag it as an "enhancement".
-
-
-</br>
-<div align="center">
-
-## License
-
-</div>
-Distributed under the MIT License. See <code>LICENSE.md</code> for more information.
-
-
-</br>
-<div align="center">
-
-## Contact Us
-
-</div>
-We’d love to hear from you! Whether you have a question, suggestion, or issue to report, feel free to get in touch with us.
-
-### Ways to Contact Us:
-
-1. **GitHub Issues**: You can open an issue directly on this repository for bugs, feature requests, or general inquiries.
-   - [Open an Issue](https://github.com/satendra03/trip-planner-by-satendra/issues)
-
-2. **Email**: Reach out to us via email at:
-   - **satendrakumarparteti.work@gmail.com** 
-
-3. **Social Media**:
-   - **Instagram**: [@_satendra_03](https://www.instagram.com/_satendra_03/)
-   - **LinkedIn**: [Satendra Kumar Parteti](https://www.linkedin.com/in/connect-satendra/)
-4. **Buy Me A Coffee**:
-   - **Small Contibution**:  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
----
